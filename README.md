@@ -39,8 +39,8 @@ For the rest, here's how you play this game:
 1) You choose any code of 4 digits, each one from 0 to 9.
 2) Your opponent tries to guess your 4 digits in the proper order.
 3) For each guess of them, you give a feedback as follows:
-  - Plus, the amount of digits that are truly correct, both in position and digit, such as **+2**.
-  - For the remaining digits, minus, the amount of digits that are existent in the code, but at a different position, such as **-1**.
+    1) Plus, the amount of digits that are truly correct, both in position and digit, such as **+2**.
+    2) For the remaining digits, minus, the amount of digits that are existent in the code, but at a different position, such as **-1**.
 4) Go back to step 2, until the opponent receives a **+4**.
 
 Two players may play simultaneously against each other, turn based, for the game to be more social and fun.
